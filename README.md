@@ -1,7 +1,7 @@
 # AUTOSAR-Port-Driver
-full layered architecture model project 
+Full layered architecture model project 
 <br>
-this project is done after learning the below lessons
+This project is done after learning the below lessons
 <br>
 AUTOSAR Layered Architecture
 <br>
